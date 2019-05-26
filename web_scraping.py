@@ -15,12 +15,11 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
     }
 
-main_url = 'https://www.bbc.com'
-
-url = 'https://www.bbc.com/news/business-38507481'
-url = 'https://www.bbc.com/news/business/companies'
-url = 'https://www.bbc.com/news/business/economy'
-url = 'https://www.bbc.com/news'
+urls = ['https://www.bbc.com/news/business-38507481'
+#        , 'https://www.bbc.com/news/business/companies'
+#        , 'https://www.bbc.com/news/business/economy'
+#        , 'https://www.bbc.com/news/business'
+        ]
 
 logging.info('START')
 
@@ -31,13 +30,12 @@ if response.status_code != 200:
 
 page_soup = BeautifulSoup(response.text, 'lxml')
 
-
 nav_bar = page_soup.find('ul', {'class':'gs-o-list-ui--top-no-border nw-c-nav__wide-sections'}).findAll('a')
 
 cats = []
 pages = []
 
-for cat in nav_bar:
+for url in urls:
     cats.append(cat.get('href'))
     
 for cat in cats:
@@ -58,16 +56,6 @@ for cat in cats:
         pages.append(main_url + page.get('href'))
     print(1)
     
-
-# grab all links
-anchors = page_soup.find_all('a')
-links = []
-for anchor in anchors:
-    links.append(anchor.get('href'))
-links_count = len(links)
-logging.info('found {} links'.format(links_count))
-
-
 
 
 #grab every article in 'latest updates'
