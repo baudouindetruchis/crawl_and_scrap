@@ -1,0 +1,524 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+DEBUG:urllib3.connectionpool:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349343
+WARNING:root:finished 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+DEBUG:urllib3.connectionpool:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349343
+WARNING:root:finished 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+DEBUG:urllib3.connectionpool:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349343
+WARNING:root:finished 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+DEBUG:urllib3.connectionpool:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349343
+WARNING:root:finished 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+DEBUG:urllib3.connectionpool:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349343
+WARNING:root:finished 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+DEBUG:urllib3.connectionpool:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349343
+INFO:root:finished 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+DEBUG:urllib3.connectionpool:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+INFO:root:finished
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.bbc.com
+DEBUG:urllib3.connectionpool:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+INFO:root:finished
+2019-05-26 01:55:24,661:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 01:55:24,825:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 01:55:25,382:INFO:finished
+2019-05-26 01:56:40,297:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 01:56:40,595:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 01:56:42,338:INFO:finished
+2019-05-26 01:56:58,095:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 01:56:58,265:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 01:56:58,681:INFO:finished
+2019-05-26 01:57:01,831:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 01:57:01,997:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 01:57:02,346:INFO:finished
+2019-05-26 01:57:02,508:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 01:57:02,681:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 01:57:03,045:INFO:finished
+2019-05-26 01:57:03,209:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 01:57:03,387:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 01:57:03,767:INFO:finished
+2019-05-26 01:57:03,946:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 01:57:04,118:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 01:57:04,507:INFO:finished
+2019-05-26 01:59:48,592:INFO:START
+2019-05-26 01:59:48,592:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 01:59:48,742:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 01:59:49,277:INFO:FINISHED
+2019-05-26 02:00:16,212:INFO:STARTED
+2019-05-26 02:00:16,214:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:00:16,379:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 02:00:16,728:INFO:FINISHED
+2019-05-26 02:00:33,160:INFO:START
+2019-05-26 02:00:33,162:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:00:33,342:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 02:00:33,701:INFO:FINISHED
+2019-05-26 02:00:43,533:INFO:START
+2019-05-26 02:00:43,535:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:00:43,690:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 02:00:44,149:INFO:FINISHED
+2019-05-26 02:02:34,073:INFO:START
+2019-05-26 02:02:34,075:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:02:34,251:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 02:02:34,717:INFO:FINISHED
+2019-05-26 02:07:58,129:INFO:START
+2019-05-26 02:07:58,131:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:07:58,302:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349292
+2019-05-26 02:07:58,625:INFO:found {} links
+2019-05-26 02:07:58,693:INFO:FINISHED
+2019-05-26 02:08:12,283:INFO:START
+2019-05-26 02:08:12,287:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:08:13,045:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349422
+2019-05-26 02:08:13,531:INFO:found 295 links
+2019-05-26 02:08:13,656:INFO:FINISHED
+2019-05-26 02:28:01,477:INFO:START
+2019-05-26 02:28:01,480:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:28:02,086:DEBUG:https://www.bbc.com:443 "GET /news/business-48400271 HTTP/1.1" 200 38112
+2019-05-26 02:28:02,311:INFO:found 188 links
+2019-05-26 02:28:02,324:INFO:FINISHED
+2019-05-26 02:29:05,125:INFO:START
+2019-05-26 02:29:05,128:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:29:05,331:DEBUG:https://www.bbc.com:443 "GET /news/business-48400271 HTTP/1.1" 200 38112
+2019-05-26 02:29:05,497:INFO:found 188 links
+2019-05-26 02:29:05,508:INFO:FINISHED
+2019-05-26 02:29:23,439:INFO:START
+2019-05-26 02:29:23,441:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:29:24,670:DEBUG:https://www.bbc.com:443 "GET /news/business-48400271 HTTP/1.1" 200 38112
+2019-05-26 02:29:24,799:INFO:found 188 links
+2019-05-26 02:29:24,810:INFO:FINISHED
+2019-05-26 02:29:57,854:INFO:START
+2019-05-26 02:29:57,856:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:29:58,133:DEBUG:https://www.bbc.com:443 "GET /news/business-22434141 HTTP/1.1" 200 349422
+2019-05-26 02:29:58,605:INFO:found 295 links
+2019-05-26 02:29:58,673:INFO:FINISHED
+2019-05-26 02:43:42,170:INFO:START
+2019-05-26 02:43:42,172:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:43:42,626:DEBUG:https://www.bbc.com:443 "GET /news/business/economy HTTP/1.1" 200 315511
+2019-05-26 02:43:43,072:INFO:found 305 links
+2019-05-26 02:43:43,143:INFO:FINISHED
+2019-05-26 02:47:38,599:INFO:START
+2019-05-26 02:47:38,601:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:47:38,785:DEBUG:https://www.bbc.com:443 "GET /news/business/economy HTTP/1.1" 200 315511
+2019-05-26 02:47:39,121:INFO:found 305 links
+2019-05-26 02:48:37,084:INFO:START
+2019-05-26 02:48:37,086:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 02:48:37,306:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 77631
+2019-05-26 02:48:37,484:INFO:found 268 links
+2019-05-26 02:48:37,514:INFO:FINISHED
+2019-05-26 03:04:51,456:INFO:START
+2019-05-26 03:04:51,459:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:04:53,056:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78077
+2019-05-26 03:06:37,178:INFO:START
+2019-05-26 03:06:37,180:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:06:37,346:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78080
+2019-05-26 03:06:37,572:INFO:found 268 links
+2019-05-26 03:06:37,592:INFO:FINISHED
+2019-05-26 03:07:00,458:INFO:START
+2019-05-26 03:07:00,460:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:07:00,851:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78099
+2019-05-26 03:07:01,351:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:07:03,676:DEBUG:https://www.bbc.com:443 "GET /news/news HTTP/1.1" 404 24054
+2019-05-26 03:07:03,735:WARNING:<Response [404]>
+2019-05-26 03:07:33,195:INFO:START
+2019-05-26 03:07:33,197:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:07:33,371:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:07:52,269:INFO:START
+2019-05-26 03:07:52,271:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:07:52,767:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:07:53,556:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:07:53,719:DEBUG:https://www.bbc.com:443 "GET /news/news HTTP/1.1" 404 24054
+2019-05-26 03:07:53,764:WARNING:<Response [404]>
+2019-05-26 03:08:25,409:INFO:START
+2019-05-26 03:08:25,411:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:08:25,595:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:08:25,840:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:08:26,005:DEBUG:https://www.bbc.com:443 "GET /news/news HTTP/1.1" 404 24054
+2019-05-26 03:08:26,046:WARNING:<Response [404]>
+2019-05-26 03:09:29,694:INFO:START
+2019-05-26 03:09:29,696:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:09:29,867:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:09:30,076:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:09:30,236:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:10:45,419:INFO:START
+2019-05-26 03:10:45,421:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:10:45,581:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:10:45,882:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:10:46,047:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:11:53,848:INFO:START
+2019-05-26 03:11:53,850:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:11:54,540:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:11:54,873:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:11:55,048:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:12:03,726:INFO:START
+2019-05-26 03:12:03,728:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:03,897:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:12:04,093:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:04,268:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:12:04,484:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:04,640:DEBUG:https://www.bbc.com:443 "GET /news/video_and_audio/headlines HTTP/1.1" 200 45342
+2019-05-26 03:12:04,863:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:05,041:DEBUG:https://www.bbc.com:443 "GET /news/world HTTP/1.1" 200 318695
+2019-05-26 03:12:05,468:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:05,656:DEBUG:https://www.bbc.com:443 "GET /news/world/asia HTTP/1.1" 200 35903
+2019-05-26 03:12:05,806:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:05,966:DEBUG:https://www.bbc.com:443 "GET /news/uk HTTP/1.1" 200 33954
+2019-05-26 03:12:06,101:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:06,263:DEBUG:https://www.bbc.com:443 "GET /news/business HTTP/1.1" 200 323579
+2019-05-26 03:12:06,608:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:06,767:DEBUG:https://www.bbc.com:443 "GET /news/technology HTTP/1.1" 200 317889
+2019-05-26 03:12:07,108:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:07,295:DEBUG:https://www.bbc.com:443 "GET /news/science_and_environment HTTP/1.1" 200 323894
+2019-05-26 03:12:07,658:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:07,815:DEBUG:https://www.bbc.com:443 "GET /news/stories HTTP/1.1" 200 46434
+2019-05-26 03:12:07,955:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:08,171:DEBUG:https://www.bbc.com:443 "GET /news/entertainment_and_arts HTTP/1.1" 200 315681
+2019-05-26 03:12:08,533:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:08,706:DEBUG:https://www.bbc.com:443 "GET /news/health HTTP/1.1" 200 315688
+2019-05-26 03:12:09,134:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:09,301:DEBUG:https://www.bbc.com:443 "GET /news/world_radio_and_tv HTTP/1.1" 200 31266
+2019-05-26 03:12:09,407:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:52,739:INFO:START
+2019-05-26 03:12:52,741:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:52,903:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78092
+2019-05-26 03:12:53,100:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:53,254:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78092
+2019-05-26 03:12:53,505:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:53,686:DEBUG:https://www.bbc.com:443 "GET /news/video_and_audio/headlines HTTP/1.1" 200 45342
+2019-05-26 03:12:53,910:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:54,089:DEBUG:https://www.bbc.com:443 "GET /news/world HTTP/1.1" 200 318695
+2019-05-26 03:12:54,434:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:54,608:DEBUG:https://www.bbc.com:443 "GET /news/world/asia HTTP/1.1" 200 35903
+2019-05-26 03:12:54,760:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:54,953:DEBUG:https://www.bbc.com:443 "GET /news/uk HTTP/1.1" 200 33954
+2019-05-26 03:12:55,090:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:55,260:DEBUG:https://www.bbc.com:443 "GET /news/business HTTP/1.1" 200 323579
+2019-05-26 03:12:55,741:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:55,920:DEBUG:https://www.bbc.com:443 "GET /news/technology HTTP/1.1" 200 317889
+2019-05-26 03:12:56,255:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:56,424:DEBUG:https://www.bbc.com:443 "GET /news/science_and_environment HTTP/1.1" 200 323894
+2019-05-26 03:12:56,794:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:56,963:DEBUG:https://www.bbc.com:443 "GET /news/stories HTTP/1.1" 200 46434
+2019-05-26 03:12:57,125:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:57,307:DEBUG:https://www.bbc.com:443 "GET /news/entertainment_and_arts HTTP/1.1" 200 315681
+2019-05-26 03:12:57,673:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:57,851:DEBUG:https://www.bbc.com:443 "GET /news/health HTTP/1.1" 200 315688
+2019-05-26 03:12:58,204:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:58,393:DEBUG:https://www.bbc.com:443 "GET /news/world_radio_and_tv HTTP/1.1" 200 31266
+2019-05-26 03:12:58,513:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:58,687:DEBUG:https://www.bbc.com:443 "GET /news/in_pictures HTTP/1.1" 200 311349
+2019-05-26 03:12:59,118:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:12:59,498:DEBUG:https://www.bbc.com:443 "GET /realitycheck HTTP/1.1" 302 0
+2019-05-26 03:12:59,501:DEBUG:Starting new HTTP connection (1): 127.0.0.1
+2019-05-26 03:12:59,795:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.com/realitycheck HTTP/1.1" 301 0
+2019-05-26 03:12:59,798:DEBUG:Resetting dropped connection: 127.0.0.1
+2019-05-26 03:13:00,348:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.co.uk/news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 301 11
+2019-05-26 03:13:00,354:DEBUG:Starting new HTTPS connection (1): www.bbc.co.uk
+2019-05-26 03:13:02,598:DEBUG:https://www.bbc.co.uk:443 "GET /news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 200 290680
+2019-05-26 03:13:03,591:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:03,761:DEBUG:https://www.bbc.com:443 "GET /news/newsbeat HTTP/1.1" 200 47206
+2019-05-26 03:13:03,884:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:04,064:DEBUG:https://www.bbc.com:443 "GET /news/special_reports HTTP/1.1" 200 29945
+2019-05-26 03:13:04,150:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:04,332:DEBUG:https://www.bbc.com:443 "GET /news/explainers HTTP/1.1" 200 30525
+2019-05-26 03:13:04,427:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:04,601:DEBUG:https://www.bbc.com:443 "GET /news/the_reporters HTTP/1.1" 200 308430
+2019-05-26 03:13:04,897:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:05,062:DEBUG:https://www.bbc.com:443 "GET /news/have_your_say HTTP/1.1" 200 56054
+2019-05-26 03:13:05,242:INFO:found 240 links
+2019-05-26 03:13:05,265:INFO:FINISHED
+2019-05-26 03:13:13,071:INFO:START
+2019-05-26 03:13:13,074:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:13,238:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78093
+2019-05-26 03:13:13,434:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:13,619:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78093
+2019-05-26 03:13:13,828:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:13,994:DEBUG:https://www.bbc.com:443 "GET /news/video_and_audio/headlines HTTP/1.1" 200 45342
+2019-05-26 03:13:14,206:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:14,378:DEBUG:https://www.bbc.com:443 "GET /news/world HTTP/1.1" 200 318695
+2019-05-26 03:13:14,822:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:14,981:DEBUG:https://www.bbc.com:443 "GET /news/world/asia HTTP/1.1" 200 35903
+2019-05-26 03:13:15,102:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:15,272:DEBUG:https://www.bbc.com:443 "GET /news/uk HTTP/1.1" 200 33954
+2019-05-26 03:13:15,398:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:15,562:DEBUG:https://www.bbc.com:443 "GET /news/business HTTP/1.1" 200 323579
+2019-05-26 03:13:15,908:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:16,064:DEBUG:https://www.bbc.com:443 "GET /news/technology HTTP/1.1" 200 317889
+2019-05-26 03:13:16,396:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:16,578:DEBUG:https://www.bbc.com:443 "GET /news/science_and_environment HTTP/1.1" 200 323894
+2019-05-26 03:13:16,908:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:17,078:DEBUG:https://www.bbc.com:443 "GET /news/stories HTTP/1.1" 200 46434
+2019-05-26 03:13:17,191:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:17,366:DEBUG:https://www.bbc.com:443 "GET /news/entertainment_and_arts HTTP/1.1" 200 315681
+2019-05-26 03:13:17,841:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:18,010:DEBUG:https://www.bbc.com:443 "GET /news/health HTTP/1.1" 200 315688
+2019-05-26 03:13:18,348:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:18,508:DEBUG:https://www.bbc.com:443 "GET /news/world_radio_and_tv HTTP/1.1" 200 31266
+2019-05-26 03:13:18,611:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:18,784:DEBUG:https://www.bbc.com:443 "GET /news/in_pictures HTTP/1.1" 200 311349
+2019-05-26 03:13:19,125:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:19,512:DEBUG:https://www.bbc.com:443 "GET /realitycheck HTTP/1.1" 302 0
+2019-05-26 03:13:19,516:DEBUG:Starting new HTTP connection (1): 127.0.0.1
+2019-05-26 03:13:19,811:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.com/realitycheck HTTP/1.1" 301 0
+2019-05-26 03:13:19,817:DEBUG:Resetting dropped connection: 127.0.0.1
+2019-05-26 03:13:20,365:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.co.uk/news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 301 11
+2019-05-26 03:13:20,371:DEBUG:Starting new HTTPS connection (1): www.bbc.co.uk
+2019-05-26 03:13:22,090:DEBUG:https://www.bbc.co.uk:443 "GET /news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 200 290680
+2019-05-26 03:13:23,325:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:23,493:DEBUG:https://www.bbc.com:443 "GET /news/newsbeat HTTP/1.1" 200 47206
+2019-05-26 03:13:23,604:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:23,775:DEBUG:https://www.bbc.com:443 "GET /news/special_reports HTTP/1.1" 200 29945
+2019-05-26 03:13:23,878:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:24,039:DEBUG:https://www.bbc.com:443 "GET /news/explainers HTTP/1.1" 200 30525
+2019-05-26 03:13:24,150:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:24,317:DEBUG:https://www.bbc.com:443 "GET /news/the_reporters HTTP/1.1" 200 308430
+2019-05-26 03:13:24,658:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:13:24,819:DEBUG:https://www.bbc.com:443 "GET /news/have_your_say HTTP/1.1" 200 56054
+2019-05-26 03:13:25,012:INFO:found 240 links
+2019-05-26 03:13:25,043:INFO:FINISHED
+2019-05-26 03:18:06,370:INFO:START
+2019-05-26 03:18:06,372:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:06,556:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78096
+2019-05-26 03:18:06,861:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:07,064:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78096
+2019-05-26 03:18:07,310:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:07,562:DEBUG:https://www.bbc.com:443 "GET /news/video_and_audio/headlines HTTP/1.1" 200 45342
+2019-05-26 03:18:07,788:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:08,038:DEBUG:https://www.bbc.com:443 "GET /news/world HTTP/1.1" 200 318705
+2019-05-26 03:18:08,388:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:08,541:DEBUG:https://www.bbc.com:443 "GET /news/world/asia HTTP/1.1" 200 35903
+2019-05-26 03:18:08,708:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:08,877:DEBUG:https://www.bbc.com:443 "GET /news/uk HTTP/1.1" 200 33956
+2019-05-26 03:18:09,023:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:09,186:DEBUG:https://www.bbc.com:443 "GET /news/business HTTP/1.1" 200 323579
+2019-05-26 03:18:09,523:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:09,673:DEBUG:https://www.bbc.com:443 "GET /news/technology HTTP/1.1" 200 317889
+2019-05-26 03:18:10,123:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:10,288:DEBUG:https://www.bbc.com:443 "GET /news/science_and_environment HTTP/1.1" 200 323894
+2019-05-26 03:18:10,675:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:10,943:DEBUG:https://www.bbc.com:443 "GET /news/stories HTTP/1.1" 200 46434
+2019-05-26 03:18:11,090:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:11,351:DEBUG:https://www.bbc.com:443 "GET /news/entertainment_and_arts HTTP/1.1" 200 315681
+2019-05-26 03:18:11,945:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:12,255:DEBUG:https://www.bbc.com:443 "GET /news/health HTTP/1.1" 200 315688
+2019-05-26 03:18:12,924:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:13,181:DEBUG:https://www.bbc.com:443 "GET /news/world_radio_and_tv HTTP/1.1" 200 31266
+2019-05-26 03:18:13,434:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:13,713:DEBUG:https://www.bbc.com:443 "GET /news/in_pictures HTTP/1.1" 200 311349
+2019-05-26 03:18:14,185:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:14,560:DEBUG:https://www.bbc.com:443 "GET /realitycheck HTTP/1.1" 302 0
+2019-05-26 03:18:14,563:DEBUG:Starting new HTTP connection (1): 127.0.0.1
+2019-05-26 03:18:14,995:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.com/realitycheck HTTP/1.1" 301 0
+2019-05-26 03:18:14,999:DEBUG:Resetting dropped connection: 127.0.0.1
+2019-05-26 03:18:15,733:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.co.uk/news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 301 11
+2019-05-26 03:18:15,736:DEBUG:Starting new HTTPS connection (1): www.bbc.co.uk
+2019-05-26 03:18:17,229:DEBUG:https://www.bbc.co.uk:443 "GET /news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 200 290680
+2019-05-26 03:18:18,284:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:18,562:DEBUG:https://www.bbc.com:443 "GET /news/newsbeat HTTP/1.1" 200 47233
+2019-05-26 03:18:18,765:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:18,946:DEBUG:https://www.bbc.com:443 "GET /news/special_reports HTTP/1.1" 200 29945
+2019-05-26 03:18:19,037:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:19,211:DEBUG:https://www.bbc.com:443 "GET /news/explainers HTTP/1.1" 200 30525
+2019-05-26 03:18:19,404:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:19,606:DEBUG:https://www.bbc.com:443 "GET /news/the_reporters HTTP/1.1" 200 308430
+2019-05-26 03:18:19,905:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:18:20,085:DEBUG:https://www.bbc.com:443 "GET /news/have_your_say HTTP/1.1" 200 56054
+2019-05-26 03:18:20,256:INFO:found 240 links
+2019-05-26 03:18:20,272:INFO:FINISHED
+2019-05-26 03:21:03,846:INFO:START
+2019-05-26 03:21:03,848:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:04,436:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78097
+2019-05-26 03:21:04,847:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:05,131:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78097
+2019-05-26 03:21:05,301:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:05,590:DEBUG:https://www.bbc.com:443 "GET /news/video_and_audio/headlines HTTP/1.1" 200 45342
+2019-05-26 03:21:05,782:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:06,013:DEBUG:https://www.bbc.com:443 "GET /news/world HTTP/1.1" 200 318688
+2019-05-26 03:21:06,333:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:06,612:DEBUG:https://www.bbc.com:443 "GET /news/world/asia HTTP/1.1" 200 35903
+2019-05-26 03:21:06,716:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:07,021:DEBUG:https://www.bbc.com:443 "GET /news/uk HTTP/1.1" 200 33956
+2019-05-26 03:21:07,218:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:07,417:DEBUG:https://www.bbc.com:443 "GET /news/business HTTP/1.1" 200 323579
+2019-05-26 03:21:07,710:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:07,970:DEBUG:https://www.bbc.com:443 "GET /news/technology HTTP/1.1" 200 317889
+2019-05-26 03:21:08,264:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:08,533:DEBUG:https://www.bbc.com:443 "GET /news/science_and_environment HTTP/1.1" 200 323894
+2019-05-26 03:21:08,852:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:09,131:DEBUG:https://www.bbc.com:443 "GET /news/stories HTTP/1.1" 200 46434
+2019-05-26 03:21:09,224:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:09,551:DEBUG:https://www.bbc.com:443 "GET /news/entertainment_and_arts HTTP/1.1" 200 315681
+2019-05-26 03:21:09,828:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:10,101:DEBUG:https://www.bbc.com:443 "GET /news/health HTTP/1.1" 200 315688
+2019-05-26 03:21:10,393:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:10,656:DEBUG:https://www.bbc.com:443 "GET /news/world_radio_and_tv HTTP/1.1" 200 31266
+2019-05-26 03:21:10,731:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:11,048:DEBUG:https://www.bbc.com:443 "GET /news/in_pictures HTTP/1.1" 200 311349
+2019-05-26 03:21:11,671:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:12,116:DEBUG:https://www.bbc.com:443 "GET /realitycheck HTTP/1.1" 302 0
+2019-05-26 03:21:12,118:DEBUG:Starting new HTTP connection (1): 127.0.0.1
+2019-05-26 03:21:12,516:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.com/realitycheck HTTP/1.1" 301 0
+2019-05-26 03:21:12,520:DEBUG:Resetting dropped connection: 127.0.0.1
+2019-05-26 03:21:13,343:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.co.uk/news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 301 11
+2019-05-26 03:21:13,347:DEBUG:Starting new HTTPS connection (1): www.bbc.co.uk
+2019-05-26 03:21:15,541:DEBUG:https://www.bbc.co.uk:443 "GET /news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 200 290680
+2019-05-26 03:21:16,371:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:16,656:DEBUG:https://www.bbc.com:443 "GET /news/newsbeat HTTP/1.1" 200 47233
+2019-05-26 03:21:16,798:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:16,957:DEBUG:https://www.bbc.com:443 "GET /news/special_reports HTTP/1.1" 200 29945
+2019-05-26 03:21:17,039:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:17,199:DEBUG:https://www.bbc.com:443 "GET /news/explainers HTTP/1.1" 200 30525
+2019-05-26 03:21:17,282:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:17,566:DEBUG:https://www.bbc.com:443 "GET /news/the_reporters HTTP/1.1" 200 308430
+2019-05-26 03:21:17,853:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:21:18,020:DEBUG:https://www.bbc.com:443 "GET /news/have_your_say HTTP/1.1" 200 56054
+2019-05-26 03:21:18,181:INFO:found 240 links
+2019-05-26 03:21:18,197:INFO:FINISHED
+2019-05-26 03:30:05,783:INFO:START
+2019-05-26 03:30:05,787:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:05,958:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78093
+2019-05-26 03:30:06,179:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:06,370:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78093
+2019-05-26 03:30:06,592:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:07,409:DEBUG:https://www.bbc.com:443 "GET /news/video_and_audio/headlines HTTP/1.1" 200 45342
+2019-05-26 03:30:07,783:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:07,969:DEBUG:https://www.bbc.com:443 "GET /news/world HTTP/1.1" 200 318598
+2019-05-26 03:30:08,324:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:08,500:DEBUG:https://www.bbc.com:443 "GET /news/world/asia HTTP/1.1" 200 35902
+2019-05-26 03:30:08,667:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:08,830:DEBUG:https://www.bbc.com:443 "GET /news/uk HTTP/1.1" 200 33953
+2019-05-26 03:30:08,978:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:09,143:DEBUG:https://www.bbc.com:443 "GET /news/business HTTP/1.1" 200 323579
+2019-05-26 03:30:09,499:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:09,687:DEBUG:https://www.bbc.com:443 "GET /news/technology HTTP/1.1" 200 317889
+2019-05-26 03:30:10,166:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:10,357:DEBUG:https://www.bbc.com:443 "GET /news/science_and_environment HTTP/1.1" 200 323894
+2019-05-26 03:30:10,741:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:11,126:DEBUG:https://www.bbc.com:443 "GET /news/stories HTTP/1.1" 200 46434
+2019-05-26 03:30:11,272:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:11,572:DEBUG:https://www.bbc.com:443 "GET /news/entertainment_and_arts HTTP/1.1" 200 315634
+2019-05-26 03:30:12,257:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:12,537:DEBUG:https://www.bbc.com:443 "GET /news/health HTTP/1.1" 200 315688
+2019-05-26 03:30:13,613:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:13,883:DEBUG:https://www.bbc.com:443 "GET /news/world_radio_and_tv HTTP/1.1" 200 31266
+2019-05-26 03:30:14,132:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:14,426:DEBUG:https://www.bbc.com:443 "GET /news/in_pictures HTTP/1.1" 200 311349
+2019-05-26 03:30:15,095:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:15,593:DEBUG:https://www.bbc.com:443 "GET /realitycheck HTTP/1.1" 302 0
+2019-05-26 03:30:15,595:DEBUG:Starting new HTTP connection (1): 127.0.0.1
+2019-05-26 03:30:15,884:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.com/realitycheck HTTP/1.1" 301 0
+2019-05-26 03:30:15,887:DEBUG:Resetting dropped connection: 127.0.0.1
+2019-05-26 03:30:16,792:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.co.uk/news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 301 11
+2019-05-26 03:30:16,799:DEBUG:Starting new HTTPS connection (1): www.bbc.co.uk
+2019-05-26 03:30:18,637:DEBUG:https://www.bbc.co.uk:443 "GET /news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 200 290680
+2019-05-26 03:30:19,794:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:20,073:DEBUG:https://www.bbc.com:443 "GET /news/newsbeat HTTP/1.1" 200 47233
+2019-05-26 03:30:20,229:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:20,398:DEBUG:https://www.bbc.com:443 "GET /news/special_reports HTTP/1.1" 200 29945
+2019-05-26 03:30:20,486:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:20,649:DEBUG:https://www.bbc.com:443 "GET /news/explainers HTTP/1.1" 200 30525
+2019-05-26 03:30:20,751:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:21,101:DEBUG:https://www.bbc.com:443 "GET /news/the_reporters HTTP/1.1" 200 308430
+2019-05-26 03:30:21,820:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:22,201:DEBUG:https://www.bbc.com:443 "GET /news/have_your_say HTTP/1.1" 200 56054
+2019-05-26 03:30:22,749:INFO:found 240 links
+2019-05-26 03:30:22,776:INFO:FINISHED
+2019-05-26 03:30:53,799:INFO:START
+2019-05-26 03:30:53,803:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:54,072:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78093
+2019-05-26 03:30:54,262:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:54,418:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78093
+2019-05-26 03:30:54,634:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:54,798:DEBUG:https://www.bbc.com:443 "GET /news/video_and_audio/headlines HTTP/1.1" 200 45342
+2019-05-26 03:30:55,108:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:55,276:DEBUG:https://www.bbc.com:443 "GET /news/world HTTP/1.1" 200 318597
+2019-05-26 03:30:55,594:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:55,774:DEBUG:https://www.bbc.com:443 "GET /news/world/asia HTTP/1.1" 200 35902
+2019-05-26 03:30:55,937:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:56,104:DEBUG:https://www.bbc.com:443 "GET /news/uk HTTP/1.1" 200 33953
+2019-05-26 03:30:56,246:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:56,611:DEBUG:https://www.bbc.com:443 "GET /news/business HTTP/1.1" 200 323579
+2019-05-26 03:30:56,856:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:57,024:DEBUG:https://www.bbc.com:443 "GET /news/technology HTTP/1.1" 200 317889
+2019-05-26 03:30:57,527:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:57,714:DEBUG:https://www.bbc.com:443 "GET /news/science_and_environment HTTP/1.1" 200 323894
+2019-05-26 03:30:58,072:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:58,236:DEBUG:https://www.bbc.com:443 "GET /news/stories HTTP/1.1" 200 46434
+2019-05-26 03:30:58,356:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:58,514:DEBUG:https://www.bbc.com:443 "GET /news/entertainment_and_arts HTTP/1.1" 200 315705
+2019-05-26 03:30:58,870:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:59,032:DEBUG:https://www.bbc.com:443 "GET /news/health HTTP/1.1" 200 315688
+2019-05-26 03:30:59,390:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:59,559:DEBUG:https://www.bbc.com:443 "GET /news/world_radio_and_tv HTTP/1.1" 200 31266
+2019-05-26 03:30:59,677:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:30:59,855:DEBUG:https://www.bbc.com:443 "GET /news/in_pictures HTTP/1.1" 200 311349
+2019-05-26 03:31:00,220:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:31:00,602:DEBUG:https://www.bbc.com:443 "GET /realitycheck HTTP/1.1" 302 0
+2019-05-26 03:31:00,604:DEBUG:Starting new HTTP connection (1): 127.0.0.1
+2019-05-26 03:31:00,997:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.com/realitycheck HTTP/1.1" 301 0
+2019-05-26 03:31:01,004:DEBUG:Resetting dropped connection: 127.0.0.1
+2019-05-26 03:31:01,819:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.co.uk/news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 301 11
+2019-05-26 03:31:01,826:DEBUG:Starting new HTTPS connection (1): www.bbc.co.uk
+2019-05-26 03:31:04,291:DEBUG:https://www.bbc.co.uk:443 "GET /news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 200 290680
+2019-05-26 03:31:05,649:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:31:05,818:DEBUG:https://www.bbc.com:443 "GET /news/newsbeat HTTP/1.1" 200 47233
+2019-05-26 03:31:06,051:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:31:06,210:DEBUG:https://www.bbc.com:443 "GET /news/special_reports HTTP/1.1" 200 29945
+2019-05-26 03:31:06,312:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:31:06,488:DEBUG:https://www.bbc.com:443 "GET /news/explainers HTTP/1.1" 200 30525
+2019-05-26 03:31:06,606:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:31:06,756:DEBUG:https://www.bbc.com:443 "GET /news/the_reporters HTTP/1.1" 200 308447
+2019-05-26 03:31:07,084:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:31:09,454:DEBUG:https://www.bbc.com:443 "GET /news/have_your_say HTTP/1.1" 200 56054
+2019-05-26 03:31:09,627:INFO:found 240 links
+2019-05-26 03:31:09,658:INFO:FINISHED
+2019-05-26 03:32:38,116:INFO:START
+2019-05-26 03:32:38,120:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:38,290:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:32:38,440:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:38,602:DEBUG:https://www.bbc.com:443 "GET /news HTTP/1.1" 200 78094
+2019-05-26 03:32:38,834:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:38,979:DEBUG:https://www.bbc.com:443 "GET /news/video_and_audio/headlines HTTP/1.1" 200 45342
+2019-05-26 03:32:39,187:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:39,364:DEBUG:https://www.bbc.com:443 "GET /news/world HTTP/1.1" 200 318597
+2019-05-26 03:32:39,661:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:39,853:DEBUG:https://www.bbc.com:443 "GET /news/world/asia HTTP/1.1" 200 35902
+2019-05-26 03:32:40,125:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:40,286:DEBUG:https://www.bbc.com:443 "GET /news/uk HTTP/1.1" 200 33964
+2019-05-26 03:32:40,418:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:40,583:DEBUG:https://www.bbc.com:443 "GET /news/business HTTP/1.1" 200 323579
+2019-05-26 03:32:41,443:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:42,105:DEBUG:https://www.bbc.com:443 "GET /news/technology HTTP/1.1" 200 317889
+2019-05-26 03:32:43,011:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:43,947:DEBUG:https://www.bbc.com:443 "GET /news/science_and_environment HTTP/1.1" 200 323894
+2019-05-26 03:32:45,098:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:45,284:DEBUG:https://www.bbc.com:443 "GET /news/stories HTTP/1.1" 200 46434
+2019-05-26 03:32:45,436:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:45,616:DEBUG:https://www.bbc.com:443 "GET /news/entertainment_and_arts HTTP/1.1" 200 315705
+2019-05-26 03:32:45,950:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:46,132:DEBUG:https://www.bbc.com:443 "GET /news/health HTTP/1.1" 200 315688
+2019-05-26 03:32:46,448:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:46,610:DEBUG:https://www.bbc.com:443 "GET /news/world_radio_and_tv HTTP/1.1" 200 31266
+2019-05-26 03:32:46,822:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:46,992:DEBUG:https://www.bbc.com:443 "GET /news/in_pictures HTTP/1.1" 200 311349
+2019-05-26 03:32:47,305:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:48,549:DEBUG:https://www.bbc.com:443 "GET /realitycheck HTTP/1.1" 302 0
+2019-05-26 03:32:48,551:DEBUG:Starting new HTTP connection (1): 127.0.0.1
+2019-05-26 03:32:48,840:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.com/realitycheck HTTP/1.1" 301 0
+2019-05-26 03:32:48,843:DEBUG:Resetting dropped connection: 127.0.0.1
+2019-05-26 03:32:49,498:DEBUG:http://127.0.0.1:1080 "GET http://www.bbc.co.uk/news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 301 11
+2019-05-26 03:32:49,503:DEBUG:Starting new HTTPS connection (1): www.bbc.co.uk
+2019-05-26 03:32:51,327:DEBUG:https://www.bbc.co.uk:443 "GET /news/topics/cp7r8vgl2rgt/reality-check HTTP/1.1" 200 290680
+2019-05-26 03:32:52,332:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:52,630:DEBUG:https://www.bbc.com:443 "GET /news/newsbeat HTTP/1.1" 200 47233
+2019-05-26 03:32:52,746:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:52,924:DEBUG:https://www.bbc.com:443 "GET /news/special_reports HTTP/1.1" 200 29945
+2019-05-26 03:32:53,009:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:53,168:DEBUG:https://www.bbc.com:443 "GET /news/explainers HTTP/1.1" 200 30525
+2019-05-26 03:32:53,260:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:53,439:DEBUG:https://www.bbc.com:443 "GET /news/the_reporters HTTP/1.1" 200 308447
+2019-05-26 03:32:53,750:DEBUG:Starting new HTTPS connection (1): www.bbc.com
+2019-05-26 03:32:53,908:DEBUG:https://www.bbc.com:443 "GET /news/have_your_say HTTP/1.1" 200 56054
+2019-05-26 03:32:54,082:INFO:found 240 links
+2019-05-26 03:32:54,098:INFO:FINISHED
