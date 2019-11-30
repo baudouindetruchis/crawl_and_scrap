@@ -52,7 +52,7 @@ def get_articles(page_soup):
         try:
             article_date = container.div.time.find('span', {'class':'qa-meta-date gs-u-mr gs-u-display-inline-block'}).text
         except:
-                article_date = datetime.datetime.utcnow().strftime('%d %B')
+            article_date = datetime.datetime.utcnow().strftime('%d %B')
 
         # get creation time
         try:
